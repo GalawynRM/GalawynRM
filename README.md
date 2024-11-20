@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats-weld-one.vercel.app?user=GalawynRM&theme=gruvbox_duo&hide_border=true)](https://giorgi.dev/blog/)
+[![GitHub Streak](https://github-readme-streak-stats-weld-one.vercel.app?user=GalawynRM&theme=gruvbox_duo&hide_border=true)]()
 
-[![Giorgi's GitHub stats](https://github-readme-stats.vercel.app/api?username=GalawynRM&show_icons=true&theme=transparent)](https://giorgi.dev/blog/)
+[![Giorgi's GitHub stats](https://github-readme-stats.vercel.app/api?username=GalawynRM&show_icons=true&theme=transparent)]()
 
 <!--
 <picture>
